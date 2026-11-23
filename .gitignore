@@ -1,0 +1,9 @@
+secret.properties
+*.db
+target/
+.idea/
+*.iml
+.vscode/
+*.class
+*.jar
+secret.properties
